@@ -1,0 +1,8 @@
+# Database Files
+datasets/
+
+# Cache files
+.ipynb_checkpoints/
+
+# Mapdata
+mapdata.html
